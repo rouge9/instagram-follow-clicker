@@ -6,3 +6,5 @@ first install the requirements
 
 
     pip install -r requirements.txt
+
+then run main.py, a ui will pop up that will accept username, password and the instagram channel after that watch the magic happen
