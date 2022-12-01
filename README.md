@@ -4,6 +4,5 @@ The tedious work of Digital marketer is clicking follow button again and again s
 
 first install the requirements
 
-pip install -r requirements.txt
 
-    then run the script
+    pip install -r requirements.txt
